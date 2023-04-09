@@ -60,7 +60,7 @@ def InstagramBruteforce():
     clear()
     ascii()
     print(color.GREEN+"/"+option_list[0]+ "/attack/"+option_list[1]+"\n"+color.END)
-    select_an_username()
+    select_an_username(esho.gold001)
     victim = input("\n> @")
     clear()
     ascii()
