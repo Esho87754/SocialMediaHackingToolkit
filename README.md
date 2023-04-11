@@ -88,7 +88,7 @@ It is recommended to use <b>SocialMediaHackingToolkit</b> only with explicit aut
 - **Arch**
 - **Termux**
 - **Windows11**
-</details>
+</gbengaesgo12>
  
   
 <b>SocialMediaHackingToolkit</b> requires following programs to run properly 
